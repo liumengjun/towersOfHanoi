@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, 欢迎来玩汉诺塔!</string>
+	<string name="app_name">汉诺塔</string>
+	<string name="app_info">
+		Version 1.0\n
+		Author: Scott Lew\n
+		Email:  zhonglijunyi@163.com\n
+		<!-- Please visit http://zhonglijunyi.vicp.net:6202/ -->
+    </string>
+	<string name="help_concent">
+		\t汉诺塔（又称河内塔）问题是源于印度一个古老传说的益智玩具。\n
+		\t1，菜单->新游戏，设定盘子数目，开始新游戏。\n
+		\t2，用手指，从一个柱子划到另一个柱子，可使得盘子在塔间移动。每次划动只会一个盘子，而且，大盘子不能压在小盘子上。\n
+		\t3，当塔1上盘子全部移动到塔2时，说明成功。\n
+    </string>
+</resources>

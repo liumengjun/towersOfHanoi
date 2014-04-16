@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/new_game"
+		android:title="新游戏"
+		android:icon="@drawable/new_game"
+		>
+	</item>
+	<item android:id="@+id/resolution"
+		android:title="解决方案"
+		android:icon="@drawable/resolution"
+		>
+	</item>
+	<item android:id="@+id/end_game"
+		android:title="重玩本局"
+		android:icon="@drawable/end_game"
+		>
+	</item>
+	<group>
+		<item android:id="@+id/help"
+			android:title="帮助"
+			android:icon="@drawable/help">
+		</item>
+		<item android:id="@+id/about"
+			android:title="关于汉诺塔"
+			android:icon="@drawable/about">
+		</item>
+	</group>
+	<item android:id="@+id/exit"
+		android:title="退出"
+		android:icon="@drawable/exit">
+	</item>
+</menu>
